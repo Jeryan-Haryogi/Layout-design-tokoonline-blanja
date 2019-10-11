@@ -1,0 +1,42 @@
+@media (min-width: 200px) { 
+	.promo1 {
+		display: none;
+	}
+
+	.promo23 {
+		display: none;
+	}
+	.layout2 {
+		display: inline-block;
+	}
+}
+@media (min-width: 992px) { 
+
+
+a:hover {
+	text-decoration: none;  
+	color: red;
+} 
+a {
+	color: black;
+}
+.card {
+	border-radius: 10px;
+}
+.form-control{
+	border-radius: 80px;
+	display: inline-block;
+}
+.img1:hover {
+	width: 300px;
+	height: 300px;
+	box-shadow: 2px 2px #888888;
+}
+.promo1 {
+	display: inline;
+}
+.promo23 {
+	display: inline;
+}
+
+)
